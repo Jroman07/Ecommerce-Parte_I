@@ -1,0 +1,6 @@
+C:\Documentos\Programación II\Proyecto-Progra-II\Ecommerce-Parte_I\ProyectoPrueba\obj\Debug\net7.0\Services.csproj.AssemblyReference.cache
+C:\Documentos\Programación II\Proyecto-Progra-II\Ecommerce-Parte_I\ProyectoPrueba\obj\Debug\net7.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Documentos\Programación II\Proyecto-Progra-II\Ecommerce-Parte_I\ProyectoPrueba\obj\Debug\net7.0\Services.AssemblyInfoInputs.cache
+C:\Documentos\Programación II\Proyecto-Progra-II\Ecommerce-Parte_I\ProyectoPrueba\obj\Debug\net7.0\Services.AssemblyInfo.cs
+C:\Documentos\Programación II\Proyecto-Progra-II\Ecommerce-Parte_I\ProyectoPrueba\obj\Debug\net7.0\Services.csproj.CoreCompileInputs.cache
+C:\Documentos\Programación II\Proyecto-Progra-II\Ecommerce-Parte_I\ProyectoPrueba\obj\Debug\net7.0\Services.sourcelink.json
